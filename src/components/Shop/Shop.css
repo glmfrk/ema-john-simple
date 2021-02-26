@@ -1,0 +1,13 @@
+.shop_area{
+    margin: 20px ;
+    display:flex;
+    width: 100%;
+}
+.products_area{
+    width:70%;
+    margin:1%;
+    border-right:1px solid lightgray;
+}
+.cart_area{
+    width: 27%;
+}
